@@ -1,7 +1,7 @@
 # Learning_Resource
 
 怎样使用github？
-参考：https://blog.csdn.net/qq_31355669/article/details/99020315
+参考：https://blog.csdn.net/qq_31355669/article/details/99020315  
 参考：https://blog.csdn.net/weixin_30730053/article/details/99489532
 
 ## some useful resource to use:
