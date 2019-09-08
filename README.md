@@ -41,6 +41,9 @@ Deep Learning与PyTorch入门实战视频教程:https://github.com/aiedward/Deep
 LeetCode题目：https://github.com/MisterBooo/LeetCodeAnimation
 
 ## 科学上网
-https://github.com/jiaxianhua/ssr-accounts
+https://github.com/zhaoweih/Shadowsocks-Tutorial  
+https://github.com/jiaxianhua/ssr-accounts  
+
+
 
 ## 欢迎填充仓库！！
