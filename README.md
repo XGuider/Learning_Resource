@@ -44,6 +44,7 @@ LeetCode题目：https://github.com/MisterBooo/LeetCodeAnimation
 https://github.com/zhaoweih/Shadowsocks-Tutorial  
 https://github.com/jiaxianhua/ssr-accounts  
 
-
+# 快速下载（baiduYun）  
+http://pandownload.com/
 
 ## 欢迎填充仓库！！
