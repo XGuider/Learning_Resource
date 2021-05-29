@@ -24,6 +24,10 @@ Deep Learning与PyTorch入门实战视频教程:https://github.com/aiedward/Deep
 
 目标识别：https://github.com/open-mmlab/mmdetection  
 
+## some Greate course
+[CreativeAI](http://geometry.cs.ucl.ac.uk/creativeai/)
+[CS468](http://graphics.stanford.edu/courses/cs468-17-spring/schedule.html)
+
 ## some about books:
 ### 计算机视觉  
 链接：https://pan.baidu.com/s/1GjhEG4Hyb-wXg7zlQlohVg 
